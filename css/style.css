@@ -1,0 +1,6 @@
+// Bulma CSS Framework
+@import "bulma.min.css";
+
+body {
+    background-color: azure;
+}
